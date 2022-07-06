@@ -1,6 +1,8 @@
 #this is a test file to understand how git work
 
-lst = [-1,-4,2,1,-5,4,6,3]
+#lst = [-1,-4,2,1,-5,4,6,3]
+
+lst = [-1,-4,2,1,-5,4,6,3,2,8,9,-5,-4]
 
 print('list befor sort',lst)
 print("length of list",len(lst))
